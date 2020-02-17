@@ -242,7 +242,7 @@ Table of Content:
  a.header-requestbtn{
      font-size:14px;
      color:#000;
-     background:#f2ae2b;
+     background:#0000ff;
      display:block;
      float:right;
      text-decoration:none;
@@ -254,7 +254,7 @@ Table of Content:
      text-align:center;
 }
  a.header-requestbtn:before {
-     background:#333;
+     background:#999;
      color:#fff;
 }
 /*===hdrvariation1_Navigation===*/
