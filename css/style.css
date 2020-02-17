@@ -4,15 +4,15 @@ Templete URI: http://www.mywork-test.com/demo/indofact_html_landing_page/theme/i
 Author: ThemeChampion
 Description: Industry And Engineering HTML Template
 Version: 1.2
-/*===================================================================== 
-Table of Content: 
-01 - Global Style Start 
-02 - Header 
+/*=====================================================================
+Table of Content:
+01 - Global Style Start
+02 - Header
 03 - Banner
 04 - Services
 05 - Recent-Project
 06 - Testimonial Section
-07 - Latest News 
+07 - Latest News
 08 - Image Hover Effect
 
 =====================================================================*/
@@ -27,7 +27,6 @@ Table of Content:
  body {
      margin:0px;
      padding:0px;
-     font-family:;
      color:#575757;
      overflow-y: scroll;
      overflow-x: hidden;
@@ -1722,7 +1721,6 @@ Table of Content:
 }
  .home2.home5.recent-project-section {
      background: #e3e2e2;
-	 
 }
  .home2.home5.recent-project-section .nav-tabs>li>a {
      color: #000;
@@ -4065,17 +4063,17 @@ Table of Content:
 	background-position: center right;
 }
 
-.home2 .slide-1{
-	background-image: url("http://via.placeholder.com/1920x755");
-	background-position: center right;
+.home2 .slide-1 {
+    background-image: url("../images/carousel/slide1.png");
+    background-position: center right;
 }
-.home2 .slide-2{
-	background-image: url("http://via.placeholder.com/1920x755");
-	background-position: center right;
+.home2 .slide-2 {
+    background-image: url("../images/carousel/slide2.png");
+    background-position: center right;
 }
-.home2 .slide-3{
-	background-image: url("http://via.placeholder.com/1920x755");
-	background-position: center right;
+.home2 .slide-3 {
+    background-image: url("../images/carousel/slide3.png");
+    background-position: center right;
 }
 
 .home3-banner .slide-1{
