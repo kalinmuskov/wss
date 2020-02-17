@@ -829,7 +829,7 @@ Table of Content:
      width:auto;
      font-size:18px;
 	 color: #30379c;
-     padding:7px 38px 21px 32px;
+     padding:10px 38px 21px 32px;
      border-right:3px solid #30379c;
      margin-right:49px;
      position:relative;
@@ -847,8 +847,8 @@ Table of Content:
      color: #30379c;
 }
  ul.footer-info li.ftr-loc{
-     font-size:16px;
-     padding:0px 40px 12px 35px;
+     /*font-size:16px;*/
+     /*padding:0px 40px 12px 35px;*/
 }
  ul.footer-info li.ftr-loc:before {
      content: "\f041";
