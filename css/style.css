@@ -1356,7 +1356,7 @@ Table of Content:
      background:#f2ae2b;
 }
  a.header-requestbtn.more-infobtn:hover{
-     border:1px solid #f2ae2b;
+     /*border:1px solid #f2ae2b;*/
 }
  ul.whychoose-list{
      width:100%;
