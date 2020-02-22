@@ -389,11 +389,11 @@
          display: block;
          width: 100%;
          padding: 16px 25px;
-         /*border-bottom: 1px solid #f3c05f !important;*/
+         border-bottom: 1px solid #000 !important;
          border-right: 0px;
          position: relative;
          font-size: 15px;
-         color: #48402b;
+         /*color: #48402b;*/
     }
      #main-navigation-wrapper .nav > li:first-child > a {
          padding-left: 25px;
